@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\bin\Debug\netcoreapp2.1\Legendary_farming_solution.deps.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\bin\Debug\netcoreapp2.1\Legendary_farming_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\bin\Debug\netcoreapp2.1\Legendary_farming_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\bin\Debug\netcoreapp2.1\Legendary_farming_solution.dll
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\bin\Debug\netcoreapp2.1\Legendary_farming_solution.pdb
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.dll
+C:\Users\Rick\source\repos\Dictionary_Exercise\Legendary_farming_solution\obj\Debug\netcoreapp2.1\Legendary_farming_solution.pdb

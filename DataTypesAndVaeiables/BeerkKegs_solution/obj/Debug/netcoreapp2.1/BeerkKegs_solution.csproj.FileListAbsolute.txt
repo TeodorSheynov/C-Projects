@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\bin\Debug\netcoreapp2.1\BeerkKegs_solution.deps.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\bin\Debug\netcoreapp2.1\BeerkKegs_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\bin\Debug\netcoreapp2.1\BeerkKegs_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\bin\Debug\netcoreapp2.1\BeerkKegs_solution.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\bin\Debug\netcoreapp2.1\BeerkKegs_solution.pdb
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\obj\Debug\netcoreapp2.1\BeerkKegs_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\obj\Debug\netcoreapp2.1\BeerkKegs_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\obj\Debug\netcoreapp2.1\BeerkKegs_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\obj\Debug\netcoreapp2.1\BeerkKegs_solution.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\BeerkKegs_solution\obj\Debug\netcoreapp2.1\BeerkKegs_solution.pdb

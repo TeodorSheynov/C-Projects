@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\bin\Debug\netcoreapp2.1\ZigZag_solution.deps.json
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\bin\Debug\netcoreapp2.1\ZigZag_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\bin\Debug\netcoreapp2.1\ZigZag_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\bin\Debug\netcoreapp2.1\ZigZag_solution.dll
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\bin\Debug\netcoreapp2.1\ZigZag_solution.pdb
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\obj\Debug\netcoreapp2.1\ZigZag_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\obj\Debug\netcoreapp2.1\ZigZag_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\obj\Debug\netcoreapp2.1\ZigZag_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\obj\Debug\netcoreapp2.1\ZigZag_solution.dll
+C:\Users\Rick\source\repos\ArraysLab\ZigZag_solution\obj\Debug\netcoreapp2.1\ZigZag_solution.pdb

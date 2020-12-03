@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\bin\Debug\netcoreapp2.1\Softuni_parking_solution.deps.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\bin\Debug\netcoreapp2.1\Softuni_parking_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\bin\Debug\netcoreapp2.1\Softuni_parking_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\bin\Debug\netcoreapp2.1\Softuni_parking_solution.dll
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\bin\Debug\netcoreapp2.1\Softuni_parking_solution.pdb
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.dll
+C:\Users\Rick\source\repos\Dictionary_Exercise\Softuni_parking_solution\obj\Debug\netcoreapp2.1\Softuni_parking_solution.pdb

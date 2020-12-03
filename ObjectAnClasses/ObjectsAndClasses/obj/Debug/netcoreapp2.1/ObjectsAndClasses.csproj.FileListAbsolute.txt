@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.deps.json
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.runtimeconfig.json
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.dll
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\bin\Debug\netcoreapp2.1\ObjectsAndClasses.pdb
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.AssemblyInfo.cs
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.dll
+C:\Users\Rick\source\repos\AdvertisementMessage_solution\ObjectsAndClasses\obj\Debug\netcoreapp2.1\ObjectsAndClasses.pdb

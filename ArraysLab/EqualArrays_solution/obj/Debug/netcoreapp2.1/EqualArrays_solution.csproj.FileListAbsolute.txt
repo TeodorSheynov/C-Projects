@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\bin\Debug\netcoreapp2.1\EqualArrays_solution.deps.json
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\bin\Debug\netcoreapp2.1\EqualArrays_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\bin\Debug\netcoreapp2.1\EqualArrays_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\bin\Debug\netcoreapp2.1\EqualArrays_solution.dll
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\bin\Debug\netcoreapp2.1\EqualArrays_solution.pdb
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\obj\Debug\netcoreapp2.1\EqualArrays_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\obj\Debug\netcoreapp2.1\EqualArrays_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\obj\Debug\netcoreapp2.1\EqualArrays_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\obj\Debug\netcoreapp2.1\EqualArrays_solution.dll
+C:\Users\Rick\source\repos\ArraysLab\EqualArrays_solution\obj\Debug\netcoreapp2.1\EqualArrays_solution.pdb

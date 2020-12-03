@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\bin\Debug\netcoreapp2.1\ArrayClone.deps.json
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\bin\Debug\netcoreapp2.1\ArrayClone.runtimeconfig.json
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\bin\Debug\netcoreapp2.1\ArrayClone.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\bin\Debug\netcoreapp2.1\ArrayClone.dll
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\bin\Debug\netcoreapp2.1\ArrayClone.pdb
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.AssemblyInfo.cs
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.dll
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.pdb
+C:\Users\Rick\source\repos\ArraysLab\ArrayClone\obj\Debug\netcoreapp2.1\ArrayClone.csprojAssemblyReference.cache

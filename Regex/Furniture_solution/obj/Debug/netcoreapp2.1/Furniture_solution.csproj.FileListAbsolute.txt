@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\bin\Debug\netcoreapp2.1\Furniture_solution.deps.json
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\bin\Debug\netcoreapp2.1\Furniture_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\bin\Debug\netcoreapp2.1\Furniture_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\bin\Debug\netcoreapp2.1\Furniture_solution.dll
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\bin\Debug\netcoreapp2.1\Furniture_solution.pdb
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.dll
+C:\Users\Rick\source\repos\Furniture_solution\Furniture_solution\obj\Debug\netcoreapp2.1\Furniture_solution.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\bin\Debug\netcoreapp2.1\MidExam_Fundamentals.deps.json
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\bin\Debug\netcoreapp2.1\MidExam_Fundamentals.runtimeconfig.json
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\bin\Debug\netcoreapp2.1\MidExam_Fundamentals.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\bin\Debug\netcoreapp2.1\MidExam_Fundamentals.dll
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\bin\Debug\netcoreapp2.1\MidExam_Fundamentals.pdb
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.dll
+C:\Users\Rick\source\repos\Solution_1\MidExam_Fundamentals\obj\Debug\netcoreapp2.1\MidExam_Fundamentals.pdb

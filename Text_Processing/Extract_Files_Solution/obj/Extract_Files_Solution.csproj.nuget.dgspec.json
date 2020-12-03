@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rick\\source\\repos\\Text_Processing\\Extract_Files_Solution\\Extract_Files_Solution.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rick\\source\\repos\\Text_Processing\\Extract_Files_Solution\\Extract_Files_Solution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rick\\source\\repos\\Text_Processing\\Extract_Files_Solution\\Extract_Files_Solution.csproj",
+        "projectName": "Extract_Files_Solution",
+        "projectPath": "C:\\Users\\Rick\\source\\repos\\Text_Processing\\Extract_Files_Solution\\Extract_Files_Solution.csproj",
+        "packagesPath": "C:\\Users\\Rick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rick\\source\\repos\\Text_Processing\\Extract_Files_Solution\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

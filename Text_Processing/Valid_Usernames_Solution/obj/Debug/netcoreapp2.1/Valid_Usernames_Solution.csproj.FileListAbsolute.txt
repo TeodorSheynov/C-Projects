@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\bin\Debug\netcoreapp2.1\Valid_Usernames_Solution.deps.json
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\bin\Debug\netcoreapp2.1\Valid_Usernames_Solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\bin\Debug\netcoreapp2.1\Valid_Usernames_Solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\bin\Debug\netcoreapp2.1\Valid_Usernames_Solution.dll
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\bin\Debug\netcoreapp2.1\Valid_Usernames_Solution.pdb
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.dll
+C:\Users\Rick\source\repos\Text_Processing\Valid_Usernames_Solution\obj\Debug\netcoreapp2.1\Valid_Usernames_Solution.pdb

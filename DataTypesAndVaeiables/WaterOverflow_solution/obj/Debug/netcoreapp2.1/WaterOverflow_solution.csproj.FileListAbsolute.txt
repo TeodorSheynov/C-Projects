@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\bin\Debug\netcoreapp2.1\WaterOverflow_solution.deps.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\bin\Debug\netcoreapp2.1\WaterOverflow_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\bin\Debug\netcoreapp2.1\WaterOverflow_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\bin\Debug\netcoreapp2.1\WaterOverflow_solution.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\bin\Debug\netcoreapp2.1\WaterOverflow_solution.pdb
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\obj\Debug\netcoreapp2.1\WaterOverflow_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\obj\Debug\netcoreapp2.1\WaterOverflow_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\obj\Debug\netcoreapp2.1\WaterOverflow_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\obj\Debug\netcoreapp2.1\WaterOverflow_solution.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\WaterOverflow_solution\obj\Debug\netcoreapp2.1\WaterOverflow_solution.pdb

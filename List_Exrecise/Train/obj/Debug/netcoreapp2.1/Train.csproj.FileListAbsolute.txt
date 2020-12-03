@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\List_Exrecise\Train\bin\Debug\netcoreapp2.1\Train.deps.json
+C:\Users\Rick\source\repos\List_Exrecise\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.json
+C:\Users\Rick\source\repos\List_Exrecise\Train\bin\Debug\netcoreapp2.1\Train.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\List_Exrecise\Train\bin\Debug\netcoreapp2.1\Train.dll
+C:\Users\Rick\source\repos\List_Exrecise\Train\bin\Debug\netcoreapp2.1\Train.pdb
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.AssemblyInfo.cs
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.dll
+C:\Users\Rick\source\repos\List_Exrecise\Train\obj\Debug\netcoreapp2.1\Train.pdb

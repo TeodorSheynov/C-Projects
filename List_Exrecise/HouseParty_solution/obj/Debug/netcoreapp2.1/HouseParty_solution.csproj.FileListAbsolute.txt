@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\bin\Debug\netcoreapp2.1\HouseParty_solution.deps.json
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\bin\Debug\netcoreapp2.1\HouseParty_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\bin\Debug\netcoreapp2.1\HouseParty_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\bin\Debug\netcoreapp2.1\HouseParty_solution.dll
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\bin\Debug\netcoreapp2.1\HouseParty_solution.pdb
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\obj\Debug\netcoreapp2.1\HouseParty_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\obj\Debug\netcoreapp2.1\HouseParty_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\obj\Debug\netcoreapp2.1\HouseParty_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\obj\Debug\netcoreapp2.1\HouseParty_solution.dll
+C:\Users\Rick\source\repos\List_Exrecise\HouseParty_solution\obj\Debug\netcoreapp2.1\HouseParty_solution.pdb

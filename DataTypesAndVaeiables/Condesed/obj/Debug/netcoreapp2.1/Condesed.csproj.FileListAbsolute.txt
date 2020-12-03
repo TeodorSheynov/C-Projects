@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\bin\Debug\netcoreapp2.1\Condesed.deps.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\bin\Debug\netcoreapp2.1\Condesed.runtimeconfig.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\bin\Debug\netcoreapp2.1\Condesed.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\bin\Debug\netcoreapp2.1\Condesed.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\bin\Debug\netcoreapp2.1\Condesed.pdb
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.AssemblyInfo.cs
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.dll
+C:\Users\Rick\source\repos\DataTypesAndVaeiables\Condesed\obj\Debug\netcoreapp2.1\Condesed.pdb

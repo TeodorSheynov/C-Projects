@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\prep1_solution\Exam\bin\Debug\netcoreapp2.1\Exam.deps.json
+C:\Users\Rick\source\repos\prep1_solution\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.json
+C:\Users\Rick\source\repos\prep1_solution\Exam\bin\Debug\netcoreapp2.1\Exam.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\prep1_solution\Exam\bin\Debug\netcoreapp2.1\Exam.dll
+C:\Users\Rick\source\repos\prep1_solution\Exam\bin\Debug\netcoreapp2.1\Exam.pdb
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.AssemblyInfo.cs
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.dll
+C:\Users\Rick\source\repos\prep1_solution\Exam\obj\Debug\netcoreapp2.1\Exam.pdb

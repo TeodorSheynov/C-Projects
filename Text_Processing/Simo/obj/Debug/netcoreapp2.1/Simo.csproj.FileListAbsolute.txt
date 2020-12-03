@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Text_Processing\Simo\bin\Debug\netcoreapp2.1\Simo.deps.json
+C:\Users\Rick\source\repos\Text_Processing\Simo\bin\Debug\netcoreapp2.1\Simo.runtimeconfig.json
+C:\Users\Rick\source\repos\Text_Processing\Simo\bin\Debug\netcoreapp2.1\Simo.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Text_Processing\Simo\bin\Debug\netcoreapp2.1\Simo.dll
+C:\Users\Rick\source\repos\Text_Processing\Simo\bin\Debug\netcoreapp2.1\Simo.pdb
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.dll
+C:\Users\Rick\source\repos\Text_Processing\Simo\obj\Debug\netcoreapp2.1\Simo.pdb

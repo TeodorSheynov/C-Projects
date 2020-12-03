@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\bin\Debug\netcoreapp2.1\AddAndSubtract_solution.deps.json
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\bin\Debug\netcoreapp2.1\AddAndSubtract_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\bin\Debug\netcoreapp2.1\AddAndSubtract_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\bin\Debug\netcoreapp2.1\AddAndSubtract_solution.dll
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\bin\Debug\netcoreapp2.1\AddAndSubtract_solution.pdb
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\obj\Debug\netcoreapp2.1\AddAndSubtract_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\obj\Debug\netcoreapp2.1\AddAndSubtract_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\obj\Debug\netcoreapp2.1\AddAndSubtract_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\obj\Debug\netcoreapp2.1\AddAndSubtract_solution.dll
+C:\Users\Rick\source\repos\SignOfInteger\AddAndSubtract_solution\obj\Debug\netcoreapp2.1\AddAndSubtract_solution.pdb

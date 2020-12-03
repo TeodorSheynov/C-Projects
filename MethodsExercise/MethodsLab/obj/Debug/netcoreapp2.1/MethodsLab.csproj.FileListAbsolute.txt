@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\bin\Debug\netcoreapp2.1\MethodsLab.deps.json
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\bin\Debug\netcoreapp2.1\MethodsLab.runtimeconfig.json
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\bin\Debug\netcoreapp2.1\MethodsLab.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\bin\Debug\netcoreapp2.1\MethodsLab.dll
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\bin\Debug\netcoreapp2.1\MethodsLab.pdb
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.AssemblyInfo.cs
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.dll
+C:\Users\Rick\source\repos\SignOfInteger\MethodsLab\obj\Debug\netcoreapp2.1\MethodsLab.pdb

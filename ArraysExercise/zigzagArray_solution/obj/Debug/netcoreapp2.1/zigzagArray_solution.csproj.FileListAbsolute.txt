@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\bin\Debug\netcoreapp2.1\zigzagArray_solution.deps.json
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\bin\Debug\netcoreapp2.1\zigzagArray_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\bin\Debug\netcoreapp2.1\zigzagArray_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\bin\Debug\netcoreapp2.1\zigzagArray_solution.dll
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\bin\Debug\netcoreapp2.1\zigzagArray_solution.pdb
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\obj\Debug\netcoreapp2.1\zigzagArray_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\obj\Debug\netcoreapp2.1\zigzagArray_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\obj\Debug\netcoreapp2.1\zigzagArray_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\obj\Debug\netcoreapp2.1\zigzagArray_solution.dll
+C:\Users\Rick\source\repos\ArraysExercise\zigzagArray_solution\obj\Debug\netcoreapp2.1\zigzagArray_solution.pdb

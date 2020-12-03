@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\prep1_solution\National_court\bin\Debug\netcoreapp2.1\National_court.deps.json
+C:\Users\Rick\source\repos\prep1_solution\National_court\bin\Debug\netcoreapp2.1\National_court.runtimeconfig.json
+C:\Users\Rick\source\repos\prep1_solution\National_court\bin\Debug\netcoreapp2.1\National_court.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\prep1_solution\National_court\bin\Debug\netcoreapp2.1\National_court.dll
+C:\Users\Rick\source\repos\prep1_solution\National_court\bin\Debug\netcoreapp2.1\National_court.pdb
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.AssemblyInfo.cs
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.dll
+C:\Users\Rick\source\repos\prep1_solution\National_court\obj\Debug\netcoreapp2.1\National_court.pdb

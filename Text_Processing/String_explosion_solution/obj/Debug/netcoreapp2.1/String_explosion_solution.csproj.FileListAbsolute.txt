@@ -1,0 +1,11 @@
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\bin\Debug\netcoreapp2.1\String_explosion_solution.deps.json
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\bin\Debug\netcoreapp2.1\String_explosion_solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\bin\Debug\netcoreapp2.1\String_explosion_solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\bin\Debug\netcoreapp2.1\String_explosion_solution.dll
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\bin\Debug\netcoreapp2.1\String_explosion_solution.pdb
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.dll
+C:\Users\Rick\source\repos\Text_Processing\String_explosion_solution\obj\Debug\netcoreapp2.1\String_explosion_solution.pdb

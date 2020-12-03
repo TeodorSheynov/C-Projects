@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\bin\Debug\netcoreapp2.1\Print_Sum_Solution.deps.json
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\bin\Debug\netcoreapp2.1\Print_Sum_Solution.runtimeconfig.json
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\bin\Debug\netcoreapp2.1\Print_Sum_Solution.runtimeconfig.dev.json
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\bin\Debug\netcoreapp2.1\Print_Sum_Solution.dll
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\bin\Debug\netcoreapp2.1\Print_Sum_Solution.pdb
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\obj\Debug\netcoreapp2.1\Print_Sum_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\obj\Debug\netcoreapp2.1\Print_Sum_Solution.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\obj\Debug\netcoreapp2.1\Print_Sum_Solution.AssemblyInfo.cs
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\obj\Debug\netcoreapp2.1\Print_Sum_Solution.dll
+C:\Users\Rick\source\repos\Fundamentals_1\Print_Sum_Solution\obj\Debug\netcoreapp2.1\Print_Sum_Solution.pdb
