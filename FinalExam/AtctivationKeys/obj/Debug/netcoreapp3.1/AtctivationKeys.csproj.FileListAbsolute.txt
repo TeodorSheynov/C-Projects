@@ -1,0 +1,13 @@
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.exe
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.deps.json
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.runtimeconfig.json
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.runtimeconfig.dev.json
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.dll
+D:\C#Projects\FinalExam\AtctivationKeys\bin\Debug\netcoreapp3.1\AtctivationKeys.pdb
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.csprojAssemblyReference.cache
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.AssemblyInfoInputs.cache
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.AssemblyInfo.cs
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.csproj.CoreCompileInputs.cache
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.dll
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.pdb
+D:\C#Projects\FinalExam\AtctivationKeys\obj\Debug\netcoreapp3.1\AtctivationKeys.genruntimeconfig.cache
