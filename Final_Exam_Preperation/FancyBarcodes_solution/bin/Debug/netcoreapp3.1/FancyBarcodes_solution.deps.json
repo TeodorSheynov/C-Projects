@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FancyBarcodes_solution/1.0.0": {
+        "runtime": {
+          "FancyBarcodes_solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FancyBarcodes_solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

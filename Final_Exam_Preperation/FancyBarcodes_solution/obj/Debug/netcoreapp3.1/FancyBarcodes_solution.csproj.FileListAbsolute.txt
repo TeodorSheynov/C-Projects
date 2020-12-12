@@ -1,0 +1,13 @@
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.exe
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.deps.json
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.runtimeconfig.json
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.runtimeconfig.dev.json
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.dll
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\bin\Debug\netcoreapp3.1\FancyBarcodes_solution.pdb
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.csprojAssemblyReference.cache
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.AssemblyInfoInputs.cache
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.AssemblyInfo.cs
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.csproj.CoreCompileInputs.cache
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.dll
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.pdb
+C:\Users\Ted\source\repos\Final_Exam_Preperation\FancyBarcodes_solution\obj\Debug\netcoreapp3.1\FancyBarcodes_solution.genruntimeconfig.cache

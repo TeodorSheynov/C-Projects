@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam_Password_Reset", "Exam_Password_Reset\Exam_Password_Reset.csproj", "{A5FE11F4-113D-42F7-BCD1-04D21E927DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes_solution", "FancyBarcodes_solution\FancyBarcodes_solution.csproj", "{C3F1DCD7-BF6A-4E50-BE38-34521E9CAD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FE11F4-113D-42F7-BCD1-04D21E927DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FE11F4-113D-42F7-BCD1-04D21E927DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FE11F4-113D-42F7-BCD1-04D21E927DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FE11F4-113D-42F7-BCD1-04D21E927DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F1DCD7-BF6A-4E50-BE38-34521E9CAD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F1DCD7-BF6A-4E50-BE38-34521E9CAD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F1DCD7-BF6A-4E50-BE38-34521E9CAD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F1DCD7-BF6A-4E50-BE38-34521E9CAD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3D6C07-18FC-4CFE-90E3-9AD563C6A69E}
+	EndGlobalSection
+EndGlobal
