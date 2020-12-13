@@ -1,0 +1,13 @@
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.exe
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.deps.json
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.runtimeconfig.json
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.runtimeconfig.dev.json
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.dll
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\bin\Debug\netcoreapp3.1\Exam_Solution_1.pdb
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.csprojAssemblyReference.cache
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.AssemblyInfoInputs.cache
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.AssemblyInfo.cs
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.csproj.CoreCompileInputs.cache
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.dll
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.pdb
+C:\Users\Ted\source\repos\Programing_Fundamentals_Exam\Exam_Solution_1\obj\Debug\netcoreapp3.1\Exam_Solution_1.genruntimeconfig.cache
